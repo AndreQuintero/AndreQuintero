@@ -7,7 +7,7 @@
 ### 🛠️ Technologies & Tools I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,vite,html,css,angular,firebase,googlecloud,git,github,vscode,figma,solidity,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,styledcomponents,redux,jest,npm,yarn,pnpm,vite,webpack,graphql,docker,html,css,angular,firebase,googlecloud,git,github,vscode,figma,solidity,java,git,github,githubactions," />
 </p>
 
 - 🎨 Frontend expert in **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** – building fast, responsive, and modern UIs
