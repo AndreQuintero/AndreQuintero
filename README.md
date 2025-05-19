@@ -7,12 +7,12 @@
 ### 🛠️ Technologies & Tools I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,vite,html,css,angular,firebase,googlecloud,git,github,vscode,figma,solidity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,vite,html,css,angular,firebase,googlecloud,git,github,vscode,figma,solidity,java" />
 </p>
 
 - 🎨 Frontend expert in **React**, **Next.js**, **Tailwind CSS**, and **TypeScript** – building fast, responsive, and modern UIs
-- ⚙️ Automations with **Google Sheets**, **Apps Script**, **Make.com**, and **Zapier**
-- 🔧 Backends with **Node.js**, **Firebase Functions**, and **Cloud APIs**
+- ⚙️ Automations with **Google Sheets**, **Apps Script**
+- 🔧 Backends with **Node.js**, **Firebase Functions**, **Java** and **Cloud APIs**
 - 🧠 Using **OpenAI APIs** for smart bots, assistants, and AI-enhanced workflows
 - 📊 Creating **dashboards**, **integrations**, and **workflows** for real-world operations
 - 🌐 Experience with **REST APIs**, **webhooks**, and **low-code platforms**
